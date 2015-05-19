@@ -1,0 +1,29 @@
+commit 7e722e58dca3d1b957366a879cdba2c42bd69d8d
+Author: Juan Retamales <jua.retamales@hotmail.cl>
+Date:   Thu May 14 12:17:31 2015 -0400
+
+    Salve mi portafolio
+
+commit 82dbb3b2526ddc74f56a5db502b1a17e5f4a83be
+Author: Juan Retamales <jua.retamales@hotmail.cl>
+Date:   Thu May 14 12:15:56 2015 -0400
+
+    agregue enlace a redes sociales
+
+commit 5d152130f5db0e93f533095e890943c7cd9323ff
+Author: Juan Retamales <jua.retamales@hotmail.cl>
+Date:   Thu May 14 12:09:56 2015 -0400
+
+    perfil web esrito
+
+commit aa10a56aa89a4cf6021b9eebd50663558eaff2c3
+Author: Juan Retamales <jua.retamales@hotmail.cl>
+Date:   Thu May 14 12:07:28 2015 -0400
+
+    subi foto perfil y mi nombre
+
+commit a24919bb39b847128e717df7ddf75c6d7db8f8db
+Author: Juan Retamales <jua.retamales@hotmail.cl>
+Date:   Thu May 14 12:00:02 2015 -0400
+
+    Estos son lso archivos base de mi portafolio
