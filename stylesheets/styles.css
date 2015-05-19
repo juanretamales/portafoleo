@@ -1,11 +1,8 @@
 body
 {
-<<<<<<< HEAD
  //background: rgb(255, 255, 20);
   background: rgb(0, 0, 20);
-=======
  background: rgb(255, 255, 20);
->>>>>>> experimental
  font-size: 16px;
  
 }
@@ -64,11 +61,7 @@ h3
   color: #FFF7F7;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
-<<<<<<< HEAD
-  //color: black;
-=======
   color: black;
->>>>>>> experimental
 }
 
 header.sidebar
@@ -169,9 +162,5 @@ div.bloque p
 {
   color: rgb(255, 255, 255);
   line-height: 1.9em;
-<<<<<<< HEAD
-  //color: black;
-=======
   color: black;
->>>>>>> experimental
 }
